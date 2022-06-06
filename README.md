@@ -1,2 +1,2 @@
 # CURD-Operation-PostgresSql
-Curd-Operation-postgresSql with Sequelize and Raw Query
+Curd-Operation-postgresSql, Sequelize and Raw Query with Typescript
